@@ -4,7 +4,7 @@
 * Engineered features from list of authors to quantify the value readers put to main author/co-author(s) and number of authors.
 * Engineered features from title of book to quantify the value readers put to length of title. 
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
-* Built a client facing API using flask 
+* Built a clients facing API using flask 
 
 ## Code and Resources Used 
 **Python Version:** 3.7  
